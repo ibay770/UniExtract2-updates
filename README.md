@@ -1,3 +1,6 @@
+Nightly updates here[https://update.bioruebe.com/uniextract/files/nightly.zip](url)
+
+
 # Universal Extractor 2 _(UniExtract2)_
 
 [![Download](https://img.shields.io/badge/download-success?style=for-the-badge)](https://github.com/Bioruebe/UniExtract2#download)
@@ -25,7 +28,7 @@ See the [changelog](docs/changelog.txt) for a complete log of all improvements.
 
 ## Download
 
-Get the latest version [here](https://github.com/Bioruebe/UniExtract2/releases/download/v2.0.0-rc.3/UniExtractRC3.zip)
+Get the latest version [[here]([url](https://update.bioruebe.com/uniextract/files/nightly.zip))
 
 ###### Virus alert?
 
