@@ -3,7 +3,8 @@ Nightly updates here[https://update.bioruebe.com/uniextract/files/nightly.zip](u
 
 # Universal Extractor 2 _(UniExtract2)_
 
-[![Download](https://img.shields.io/badge/download-success?style=for-the-badge)](https://github.com/Bioruebe/UniExtract2#download)
+[![Download](https://img.shields.io/badge/download-success?style=for-the-badge)]([https://update.bioruebe.com/uniextract/files/nightly.zip](url)
+)
 
 Universal Extractor 2 is a tool designed to **extract files from any type of extractable file**.
 
