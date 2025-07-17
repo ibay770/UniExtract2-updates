@@ -2,9 +2,9 @@
 
 # Universal Extractor 2 _(UniExtract2)_
 
-**Nightly updates here**   [https://update.bioruebe.com/uniextract/files/nightly.zip](url)
+**Nightly updates here**  [ [https://update.bioruebe.com/uniextract/files/nightly.zip](url)
 ](url)
-
+](https://update.bioruebe.com/uniextract/files/nightly.zip)
 Universal Extractor 2 is a tool designed to **extract files from any type of extractable file**.
 
 Unlike most archiving programs, UniExtract is not limited to **standard archives** such as `.zip` and `.rar`. It can also deal with **application installers**, **disk images** and even **game archives** and other **multimedia files**. An overview of supported file types can be found [here](/docs/FORMATS.md)
