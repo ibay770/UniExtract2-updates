@@ -28,7 +28,8 @@ See the [changelog](docs/changelog.txt) for a complete log of all improvements.
 
 ## Download
 
-Get the latest version [[here]([url](https://update.bioruebe.com/uniextract/files/nightly.zip))
+Get the latest version [here](Nightly updates here[https://update.bioruebe.com/uniextract/files/nightly.zip](url)
+)
 
 ###### Virus alert?
 
